@@ -26,6 +26,12 @@ git remote add origin git@github.com:coding-to-music/grafana-observability-prime
 git push -u origin main
 ```
 
+## Results
+
+Flask API http://localhost:5000/users
+
+Grafana http://localhost:3000/d/j0VZzcy7z/application-metrics?orgId=1&from=now-15m&to=now
+
 # grafana-observability-primer
 
 Grafana Observability Primer
