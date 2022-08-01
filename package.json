@@ -1,0 +1,21 @@
+{
+  "name": "grafana-observability-primer-prometheus-k6-load-testing",
+  "version": "1.0.0",
+  "description": "Grafana Observability Primer",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruanbekker/grafana-observability-primer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruanbekker/grafana-observability-primer/issues"
+  },
+  "homepage": "https://github.com/ruanbekker/grafana-observability-primer#readme"
+}

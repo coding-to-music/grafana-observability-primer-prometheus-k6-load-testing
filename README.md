@@ -1,4 +1,33 @@
+# grafana-observability-primer-prometheus-k6-load-testing
+
+# 🚀 Grafana Observability Primer 🚀
+
+https://github.com/coding-to-music/grafana-observability-primer-prometheus-k6-load-testing
+
+From / By Ruan Bekker https://github.com/ruanbekker
+
+https://github.com/ruanbekker/grafana-observability-primer
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/grafana-observability-primer-prometheus-k6-load-testing.git
+git push -u origin main
+```
+
 # grafana-observability-primer
+
 Grafana Observability Primer
 
 ## stack
@@ -54,4 +83,3 @@ Average Response Time:
 Response Duration:
 
 ![image](https://user-images.githubusercontent.com/567298/160496393-8a65a499-882a-49ad-8f7d-1157fff4063a.png)
-
